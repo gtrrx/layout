@@ -1,0 +1,25 @@
+.azul {
+    background-color: rgb(85, 153, 255);
+    padding: 100px;
+}
+
+.amarela {
+    background-color: rgb(255, 225, 0);
+    padding: 100px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-color: black;
+    border-style: solid;
+}
+
+.flex {
+    display: flex;
+}
+
+.esticar {
+    padding-right: 430px;
+    background-color: rgb(240, 255, 37);
+    margin: 10px;
+    border-color: black;
+    border-style: solid;
+}
