@@ -16,6 +16,15 @@
     display: flex;
 }
 
+.centralizar {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.alongar {
+    padding-top: 300px;
+}
+
 .esticar {
     padding-right: 430px;
     background-color: rgb(240, 255, 37);
