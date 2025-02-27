@@ -1,34 +1,35 @@
+.centralizar {
+    max-width: 660px;
+    margin: 0 auto;
+}
+
 .azul {
-    background-color: rgb(85, 153, 255);
-    padding: 100px;
+    background-color: rgb(112, 112, 112);
 }
 
 .amarela {
-    background-color: rgb(255, 225, 0);
+    background-color: rgb(235, 223, 63);
     padding: 100px;
     margin: 10px;
     box-sizing: border-box;
     border-color: black;
     border-style: solid;
+    border-radius: 12px;
 }
+
+.esticar {
+    padding-right: 320px;
+}
+
+.alongar {
+    padding-top: 315px;
+}
+
 
 .flex {
     display: flex;
 }
-
-.centralizar {
-    max-width: 900px;
-    margin: 0 auto;
-}
-
-.alongar {
-    padding-top: 300px;
-}
-
-.esticar {
-    padding-right: 430px;
-    background-color: rgb(240, 255, 37);
-    margin: 10px;
-    border-color: black;
-    border-style: solid;
+.limite{
+    height: 100px;
+    max-width: 640px;
 }
